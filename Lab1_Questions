@@ -1,0 +1,14 @@
+Q1)Write a C program to accept two number from user and swap the contents using pointer.
+
+Q2)Write a C program to assign values to each member of the given structure. Pass the populated structure to a function Using call-by address and print the value of each member of the structure with in that function. 
+struct info
+{ 
+int roll_no;
+char name[50]; 
+float CGPA;
+}
+
+Q3)Write a C program to extract each byte from a given number and store them in separate character variables and print the content of those variables.
+
+Q4)Write a C program to check if your system is little endian or big endian
+
